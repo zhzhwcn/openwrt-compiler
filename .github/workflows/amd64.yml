@@ -79,6 +79,7 @@ jobs:
         df -hT $PWD
         wget "https://github.com/openwrt/openwrt/archive/refs/tags/v${RELEASE_TAG}.tar.gz"
         tar -xzf "v${RELEASE_TAG}.tar.gz"
+        ls -al
         mv "openwrt-v${RELEASE_TAG}" openwrt
         ln -sf /workdir/openwrt $GITHUB_WORKSPACE/openwrt
 
