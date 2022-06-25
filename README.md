@@ -4,7 +4,7 @@
 
 本仓库使用的 Github Action 脚本基于 P3TERX 的 [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) 。
 
-本仓库将在北京时间星期六的16:00开始自动编译一次。平时也会根据个人需求手动编译。
+本仓库将~~在北京时间星期六的16:00开始自动编译一次。平时也会~~根据个人需求手动编译。
 
 ## 致谢
 
